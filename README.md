@@ -1,2 +1,4 @@
-# Initial page
+# Welcome
+
+![](.gitbook/assets/image%20%284%29.png)
 
