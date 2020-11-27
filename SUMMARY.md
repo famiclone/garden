@@ -37,6 +37,7 @@
     - [Fractions](science/math/fractions.md)
 - [Productivity](productivity/README.md)
   - [Bullet journaling](productivity/bullet-journaling.md)
+  - [Typing](productivity/typing.md)
 - [Image quality](image-quality/README.md)
 - [Operating system](operating-system/README.md)
   - [Linux](operating-system/linux.md)
