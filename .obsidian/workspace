@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "136bb08325858b92",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe106522ff05512e",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "operating-system/macos.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70f530541daf8491",
+    "type": "split",
+    "children": [
+      {
+        "id": "06ef94bb93f54bc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad2f8e840b8ffdec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "58f4a9624c911e47",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "78f4c02e5de3e8ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa394b892a56cce9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07907a189752d8c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "operating-system/macos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "operating-system/macos.md",
+    "development/vim.md",
+    "operating-system/README.md",
+    "development/web-development/html5/README.md",
+    "development/web-development/html5/canvas/webgl.md",
+    "development/web-development/html5/canvas/README.md",
+    "development/web-development/html5/canvas/context2d.md",
+    "development/game-development/sprite.md",
+    "development/game-development/README.md",
+    "development/game-development/pixel-art.md"
+  ]
+}

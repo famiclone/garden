@@ -18,6 +18,7 @@
   - [Vim](development/vim.md)
   - [Web development](development/web-development/README.md)
     - [HTTP](development/web-development/http.md)
+    - [GraphQL](development/web-development/graphql.md)
     - [PWA](development/web-development/pwa.md)
     - [CSS](development/web-development/css.md)
     - [React](development/web-development/react/README.md)
