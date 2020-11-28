@@ -16,3 +16,7 @@ Detailed statistics about files in a directory
  Total                   44          584          205            0          379
 --------------------------------------------------------------------------------
 ```
+
+## [Ranger](https://github.com/ranger/ranger)
+
+Ranger is a console file manager with VI key bindings.
