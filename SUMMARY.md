@@ -26,6 +26,7 @@
     - [GraphQL](development/web-development/graphql.md)
     - [PWA](development/web-development/pwa.md)
     - [CSS](development/web-development/css.md)
+    - [Web scrapping](development/web-development/web-scrapping/README.md)
     - [React](development/web-development/react/README.md)
       - [React hooks](development/web-development/react/react-hooks.md)
     - [HTML5](development/web-development/html5/README.md)
