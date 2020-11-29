@@ -1,6 +1,8 @@
 # SSH
 
-Create ssh alias
+## Notes
+
+### Create ssh alias
 
 ```text
 # 1. Create file ~/.ssh/config
@@ -14,3 +16,4 @@ Host <name_of_resourse>
     IdentityFIle <path_to_file>
 ```
 
+## Links

@@ -1,6 +1,9 @@
 # Table of contents
 
 - [Welcome](README.md)
+- [Education](education/README.md)
+  - [Tools](education/tools/README.md)
+    - [Anki](education/tools/anki.md)
 - [Languages](languages/README.md)
   - [English](languages/english.md)
 - [Utilities](utilities/README.md)
