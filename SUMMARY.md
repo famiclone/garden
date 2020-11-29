@@ -1,6 +1,8 @@
 # Table of contents
 
 - [Welcome](README.md)
+- [Languages](languages/README.md)
+  - [English](languages/english.md)
 - [Utilities](utilities/README.md)
   - [Docker](utilities/docker.md)
   - [SSH](utilities/ssh.md)
