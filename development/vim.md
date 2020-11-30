@@ -12,8 +12,7 @@
 
 ## Links
 
-* [https://www.vimgolf.com/](https://www.vimgolf.com/) - Vim challenges
-* [https://vim.fandom.com/wiki/Vim\_Tips\_Wiki](https://vim.fandom.com/wiki/Vim_Tips_Wiki) - Vim tips wiki
-
-
-
+- [https://www.vimgolf.com/](https://www.vimgolf.com/) - Vim challenges
+- [https://vim.fandom.com/wiki/Vim_Tips_Wiki](https://vim.fandom.com/wiki/Vim_Tips_Wiki) - Vim tips wiki
+- [pintovim.dev](https://pintovim.dev) - Vim color scheme generator
+- [Vim Colors](https://vimcolors.org) - Another color scheme generator
