@@ -5,22 +5,20 @@
 ### useState
 
 ```jsx
-import React, { useState } from 'react';
+import React, { useState } from 'react'
 
 export const App = () => {
-    const [state, setState] = useState({
-        count: 0
-    })
-    
-    return (
-        <button
-            onClick={
-                () => setState(prev => ({...prev, count: state.count + 1}))
-            }
-        >
-            Increment
-        </button>
-    )
+  const [state, setState] = useState({
+    count: 0
+  })
+
+  return (
+    <button
+      onClick={() => setState((prev) => ({ ...prev, count: state.count + 1 }))}
+    >
+      Increment
+    </button>
+  )
 }
 ```
 
@@ -38,7 +36,7 @@ const reducer = (state, action) => {
 
 export const App = () => {
     const [state, dispatch] = useReducer(reducer, { name: '' })
-    
+
     return (
         <button
             onClick={() => {
@@ -55,5 +53,4 @@ export const App = () => {
 
 ## Links
 
-* [https://www.youtube.com/playlist?list=PLZlA0Gpn\_vH8EtggFGERCwMY5u5hOjf-h](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
-
+- [https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
