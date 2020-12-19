@@ -18,6 +18,5 @@ while(true) {
 
 #### Links
 
-* [http://higherorderfun.com/blog/2010/08/17/understanding-the-game-main-loop/](http://higherorderfun.com/blog/2010/08/17/understanding-the-game-main-loop/)
-* [https://dewitters.com/dewitters-gameloop/](https://dewitters.com/dewitters-gameloop/)
-
+- [http://higherorderfun.com/blog/2010/08/17/understanding-the-game-main-loop/](http://higherorderfun.com/blog/2010/08/17/understanding-the-game-main-loop/)
+- [https://dewitters.com/dewitters-gameloop/](https://dewitters.com/dewitters-gameloop/)
