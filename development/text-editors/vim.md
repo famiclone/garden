@@ -33,6 +33,8 @@ packloadall
 
 `:%s/target/{\0} # {target}`
 
+![vim cheatsheet](../../.gitbook/assets/vim-cheatsheet.png)
+
 ## Links
 
 - [Check my .vimrc file](https://github.com/famiclone/dotfiles/blob/master/.vimrc)
