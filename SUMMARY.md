@@ -1,8 +1,13 @@
 # Table of contents
 
 - [Welcome](README.md)
+- [Courses](courses/courses.md)
+  - [Fundamentals of 2D Game Engines with C++ SDL and Lua](courses/2d-game-engine-sdl/2d-game-engine-sdl.md)
+    - [Dependencies and project structure](courses/2d-game-engine-sdl/02-deps-project-structure.md)
 - [Computer science](computer-science/computer-science.md)
   - [Basic](computer-science/basic.md)
+- [Sound](sound/sound.md)
+  - [FM synthesis](sound/fm-synthesis.md)
 - [Development](development/development.md)
   - [Text editors](development/text-editors/text-editors.md)
     - [Vim](development/text-editors/vim.md)
