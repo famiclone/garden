@@ -9,6 +9,7 @@
 - [Sound](sound/sound.md)
   - [FM synthesis](sound/fm-synthesis.md)
 - [Development](development/development.md)
+  - [Design system](development/design-system/design-system.md)
   - [Text editors](development/text-editors/text-editors.md)
     - [Vim](development/text-editors/vim.md)
     - [Emacs](development/text-editors/emacs.md)
