@@ -8,7 +8,7 @@ Vim is the powerful highly configurable text editor with extensible plugin syste
 
 #### Install plugins
 
-Vim 8+ have built-in plugin system.
+Vim 8+ has built-in plugin system.
 `:help packages`
 
 1. Make dir and clone plugin repository
