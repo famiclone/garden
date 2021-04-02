@@ -36,7 +36,7 @@ packloadall
 ![vim cheatsheet](../../.gitbook/assets/vim-cheatsheet.png)
 
 ## Links
-
+- [Vim Conf 2020](https://www.vimconf.live)
 - [Check my .vimrc file](https://github.com/famiclone/dotfiles/blob/master/.vimrc)
 - [https://www.vim.org](https://www.vim.org) - Official
 - [https://www.vimgolf.com/](https://www.vimgolf.com/) - Vim challenges
